@@ -50,6 +50,7 @@ DNS Lookup: Get DNS records for a domain.
 Directory Fuzzing & Document Finding: Perform directory fuzzing and find common files and directories.
 Google Dorking: Run advanced Google dorks to find publicly exposed data.
 Email Scraping: Scrape email addresses from a website.
+
 Example Output
 After running a WHOIS lookup, the tool will display WHOIS information for the provided domain.
 Google Dorking results will display Google search URLs based on the selected dorks.
