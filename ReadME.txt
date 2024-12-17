@@ -18,7 +18,7 @@ Before using the tool, you need to install the required dependencies.
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/your-repository/osint-collection-tool.git
+git clone https://github.com/Ajay-Bommidi/OBNTATHLOS.git
 cd OBNTATHLOS
 Step 2: Install dependencies
 Create a virtual environment (optional but recommended):
