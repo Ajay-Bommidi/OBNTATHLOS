@@ -23,23 +23,23 @@ cd OBNTATHLOS
 Step 2: Install dependencies
 Create a virtual environment (optional but recommended):
 
-bash
-Copy code
-python3 -m venv venv
-source venv/bin/activate  # On Windows use 'venv\Scripts\activate'
-Then install the required dependencies:
+Activate your virtual environment:
 
 bash
-Copy code
+source ~/myenv/bin/activate
+
+Install all required dependencies (including python-whois) in your virtual environment:
+
+bash
 pip install -r requirements.txt
+
 Step 3: Configuration
 Modify the CONFIG dictionary in the script to set your IPinfo.io API key and output directory.
 Step 4: Run the tool
 Run the script:
 
 bash
-Copy code
-python3 OBNTATHLOS.py
+sudo ~/myenv/bin/python3 OBNTATHLOS.py
 The tool will present an interactive menu to choose which OSINT operation to run.
 
 Usage
