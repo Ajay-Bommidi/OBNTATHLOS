@@ -52,12 +52,19 @@ sudo python OBNTATHLOS.py
 
 🧭 **Example:**
 [1] IPinfo
+
 [2] WHOIS Lookup (Domain)
+
 [3] DNS Lookup
+
 [4] Directiory Fuzzing & Document Finding (URL)
+
 [5] Google Dorking (Search Query)
+
 [6] Email Scraping (Website)
+
 [7] Run All Modules
+
 [8] Exit
 
 [0] Exit
