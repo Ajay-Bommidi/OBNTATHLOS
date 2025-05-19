@@ -51,19 +51,14 @@ sudo python OBNTATHLOS.py
 4. **View the results instantly!**
 
 🧭 **Example:**
-[1] WHOIS Lookup
-
-[2] IP Geolocation
-
-[3] DNS Resolver
-
-[4] Directory Fuzzing
-
-[5] Document Finder
-
-[6] Google Dorking
-
-[7] Email Scraper
+[1] IPinfo
+[2] WHOIS Lookup (Domain)
+[3] DNS Lookup
+[4] Directiory Fuzzing & Document Finding (URL)
+[5] Google Dorking (Search Query)
+[6] Email Scraping (Website)
+[7] Run All Modules
+[8] Exit
 
 [0] Exit
 
