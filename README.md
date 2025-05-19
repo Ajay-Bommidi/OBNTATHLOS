@@ -52,12 +52,19 @@ sudo python OBNTATHLOS.py
 
 🧭 **Example:**
 [1] WHOIS Lookup
+
 [2] IP Geolocation
+
 [3] DNS Resolver
+
 [4] Directory Fuzzing
+
 [5] Document Finder
+
 [6] Google Dorking
+
 [7] Email Scraper
+
 [0] Exit
 
 Select an option: 2
