@@ -53,30 +53,31 @@ sudo python OBNTATHLOS.py
 4. **View the results instantly!**
 
 🧭 **Example:**
-[1] IPinfo
 
-[2] WHOIS Lookup (Domain)
+### [1] IPinfo
 
-[3] DNS Lookup
+### [2] WHOIS Lookup (Domain)
 
-[4] Directiory Fuzzing & Document Finding (URL)
+### [3] DNS Lookup
 
-[5] Google Dorking (Search Query)
+### [4] Directiory Fuzzing & Document Finding (URL)
 
-[6] Email Scraping (Website)
+### [5] Google Dorking (Search Query)
 
-[7] Run All Modules
+### [6] Email Scraping (Website)
 
-[8] Exit
+### [7] Run All Modules
 
-[0] Exit
+### [8] Exit
+
+### [0] Exit
 
 Select an option: 2
 Enter IP Address: 93.184.216.34
-🛠️ Requirements
+## 🛠️ Requirements
 Python 3.7+
 
-Modules:
+## Modules:
 
 requests
 bs4
@@ -87,7 +88,7 @@ python-whois
 re, os, subprocess
 (Use pip install -r requirements.txt if a file is included.)
 
-📦 Modules Overview
+## 📦 Modules Overview
 
 | Module                | Description                               |
 | --------------------- | ----------------------------------------- |
@@ -99,8 +100,8 @@ re, os, subprocess
 | **Google Dorking**    | Uses dorks to find indexed sensitive data |
 | **Email Scraper**     | Scrapes emails from websites              |
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 This tool is for educational and authorized security testing only. Unauthorized usage against systems you don’t own or have permission to test is illegal.
 
-📚 License
+## 📚 License
 MIT License © 2025 – Ajay Bommidi
