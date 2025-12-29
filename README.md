@@ -1,4 +1,5 @@
 # OBNTATHLOS
+### FOR Linux Distros.. like Debian...
 ### OSINT Collection Tool is a Python-based tool for automated OSINT gathering. It includes modules for WHOIS lookups, IP geolocation, DNS resolution, directory fuzzing, document finding, Google dorking, and email scraping. Ideal for cybersecurity professionals and penetration testers to quickly gather valuable information.
 ![image (6)](https://github.com/user-attachments/assets/d9eaf007-5d9f-4f31-b162-80efbd826803)
 
